@@ -15,4 +15,4 @@ Let's collaborate and make the internet a safer place for everyone. Together, we
 
 ## Tutorial
 
-https://tankisothebe.atlassian.net/wiki/spaces/CSEC/overview
+* https://tankisothebe.atlassian.net/wiki/spaces/CSEC/overview
