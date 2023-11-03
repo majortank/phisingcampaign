@@ -13,6 +13,6 @@ Welcome to Tankiso's Phising campaign, your go-to resource in the fight against 
 
 Let's collaborate and make the internet a safer place for everyone. Together, we can outsmart the phishers! 🌐🔐
 
-## Tutorial
+## Demonstration Docs
 
 * https://tankisothebe.atlassian.net/wiki/spaces/CSEC/overview
